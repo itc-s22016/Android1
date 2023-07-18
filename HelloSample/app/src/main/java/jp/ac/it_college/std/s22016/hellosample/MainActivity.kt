@@ -6,22 +6,32 @@ import android.view.View
 import android.widget.Button
 import android.widget.EditText
 import android.widget.TextView
+import jp.ac.it_college.std.s22016.hellosample.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
+    private lateinit var binding: ActivityMainBinding
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        binding = ActivityMainBinding.inflate(layoutInflater)
+        setContentView(binding.root)
+        //setContentView(R.layout.activity_main)
 
-        val btClick = findViewById<Button>(R.id.btClick)
+        //val btClick = findViewById<Button>(R.id.btClick)
         val listener = HelloListener()
-        btClick.setOnClickListener(listener)
+        binding.btClick.setOnClickListener(listener)
     }
     private inner class HelloListener : View.OnClickListener {
         override fun onClick(v: View?) {
-            val input = findViewById<EditText>(R.id.etName)
-            val output = findViewById<TextView>(R.id.tvOutput)
-            val inputStr = input.text.toString()
-            output.text = "${inputStr}さん、こんにちは"
+            // val input = findViewById<EditText>(R.id.etName)
+            // val input = binding.etName
+
+            //val output = findViewById<TextView>(R.id.tvOutput)
+            // val output = binding.tvOutput
+            val input = binding.etName
+            val output = binding.tvOutput
+            val inputStr = binding.etName.text.toString()
+
+            binding.tvOutput.text = "${inputStr}さん、こんにちは"
         }
 
     }
