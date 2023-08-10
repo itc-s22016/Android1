@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/s22016/.gradle/daemon/8.0/jp.ac.it_college.std.s22016.intentsample.app-mergeDebugResources-27:/layout/activity_main.xml",
+        "source": "/home/s22016/.gradle/daemon/8.0/jp.ac.it_college.std.s22016.intentsample.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/s22016/.gradle/daemon/8.0/jp.ac.it_college.std.s22016.intentsample.app-mergeDebugResources-27:/layout/menu_row.xml",
+        "source": "/home/s22016/.gradle/daemon/8.0/jp.ac.it_college.std.s22016.intentsample.app-main-30:/layout/menu_row.xml"
+    },
+    {
+        "merged": "jp.ac.it_college.std.s22016.intentsample.app-mergeDebugResources-27:/layout/menu_row.xml",
+        "source": "jp.ac.it_college.std.s22016.intentsample.app-main-30:/layout/menu_row.xml"
+    }
+]
