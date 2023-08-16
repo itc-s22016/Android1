@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">画面遷移サンプル</string>
+    <string name="bt_thx_back">リストに戻る</string>
+    <string name="tv_Yen">円</string>
+    <string name="tv_thx_desc">以下のメニューのご注文を受け付けました。\nご注文ありがとうございます。</string>
+    <string name="tv_thx_title">注文完了</string>
+    <style name="Base.Theme.IntentSample" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.IntentSample" parent="Base.Theme.IntentSample"/>
+</resources>
