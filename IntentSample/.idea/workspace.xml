@@ -10,18 +10,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16d41b68-b039-4f43-bd4c-9e2334822556" name="変更" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/jp/ac/it_college/std/s22016/intentsample/MenuThanksActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_menu_thanks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MenuSample/app/src/main/java/jp/ac/it_college/std/s22016/menusample/MenuThanksActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MenuSample/app/src/main/res/layout/activity_menu_thanks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MenuSample/app/src/main/res/menu/menu_context_menu_list.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConstraintLayoutSample1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConstraintLayoutSample1/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FragmentSample/app/src/main/java/jp/ac/it_college/std/s22016/fragmentsample/Menu.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FragmentSample/app/src/main/java/jp/ac/it_college/std/s22016/fragmentsample/MenuAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FragmentSample/app/src/main/java/jp/ac/it_college/std/s22016/fragmentsample/MenuThanksFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FragmentSample/app/src/main/res/layout/fragment_menu_thanks.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FragmentSample/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FragmentSample/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FragmentSample/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../FragmentSample/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FragmentSample/app/src/main/java/jp/ac/it_college/std/s22016/fragmentsample/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../FragmentSample/app/src/main/java/jp/ac/it_college/std/s22016/fragmentsample/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FragmentSample/app/src/main/java/jp/ac/it_college/std/s22016/fragmentsample/MenuListFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../FragmentSample/app/src/main/java/jp/ac/it_college/std/s22016/fragmentsample/MenuListFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FragmentSample/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../FragmentSample/settings.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/jp/ac/it_college/std/s22016/intentsample/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/jp/ac/it_college/std/s22016/intentsample/MainActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pbl" beforeDir="false" afterPath="$PROJECT_DIR$/../pbl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,16 +67,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "cidr.known.project.marker": "true",
-    "last_opened_file_path": "/home/s22016/AndroidProjects/Android1/pbl",
-    "memory.settings.postsync.last.time.stamp": "1690354610931"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/s22016/AndroidProjects/Android1/pbl&quot;,
+    &quot;memory.settings.postsync.last.time.stamp&quot;: &quot;1690354610931&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="IntentSample.app.main" />
